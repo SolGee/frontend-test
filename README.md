@@ -8,7 +8,7 @@ This is an open ended test, while we request a few features how you go about sol
 
 - Set up a green field project using react and redux (preferably, you can use other libraries but you should explain your reasons behind your decisions)
 - Get information from an open api
-  - We recommend using something like the [Pokemon Api](https://pokeapi.co/).
+  - We recommend using an api from the following [repo](https://github.com/public-apis/public-apis).
 - Use redux to store and control your information. 
 - Use the redux state to build a list of items
 - Allow us to load more items and delete items from the list using hooks.
